@@ -1,0 +1,30 @@
+{
+  "name": "namste-react-02",
+  "version": "1.0.0",
+  "description": "Rough",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbasrizvi2/Namaste-react-02.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbasrizvi2/Namaste-react-02/issues"
+  },
+  "homepage": "https://github.com/abbasrizvi2/Namaste-react-02#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
